@@ -1,0 +1,1 @@
+To start type ``node ./app.js``
